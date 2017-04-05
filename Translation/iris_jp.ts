@@ -231,65 +231,65 @@ http://iristech.co/iris-mini</source>
 <context>
     <name>MainWindow</name>
     <message>
-        <location filename="../MainWindow.cpp" line="587"/>
+        <location filename="../MainWindow.cpp" line="593"/>
         <source>until</source>
         <translation>まで</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="599"/>
+        <location filename="../MainWindow.cpp" line="605"/>
         <source>rest</source>
         <translation>残り</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="622"/>
+        <location filename="../MainWindow.cpp" line="628"/>
         <source>work</source>
         <translation>起動</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="700"/>
+        <location filename="../MainWindow.cpp" line="706"/>
         <source>Paused</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1087"/>
+        <location filename="../MainWindow.cpp" line="1116"/>
         <source>Iris Pro needed</source>
         <translation>本機能を使用するには製品版をご購入いただく必要があります</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1088"/>
+        <location filename="../MainWindow.cpp" line="1117"/>
         <source>You need Iris Pro to access this section.</source>
         <translatorcomment>Ignore this error.There is no problem with this Japanese sentence.</translatorcomment>
         <translation>本機能は製品版のみ利用可能です</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1556"/>
+        <location filename="../MainWindow.cpp" line="1585"/>
         <source>Relaunch Iris</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1557"/>
+        <location filename="../MainWindow.cpp" line="1586"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1559"/>
+        <location filename="../MainWindow.cpp" line="1588"/>
         <source>Relaunch now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1560"/>
+        <location filename="../MainWindow.cpp" line="1589"/>
         <source>Later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1576"/>
-        <location filename="../MainWindow.cpp" line="1641"/>
+        <location filename="../MainWindow.cpp" line="1605"/>
+        <location filename="../MainWindow.cpp" line="1670"/>
         <source>Restart is needed</source>
         <translation type="unfinished">PCを再起動させてください</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1577"/>
-        <location filename="../MainWindow.cpp" line="1641"/>
+        <location filename="../MainWindow.cpp" line="1606"/>
+        <location filename="../MainWindow.cpp" line="1670"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -1354,50 +1354,80 @@ http://iristech.co/iris-mini</source>
 <context>
     <name>TrayIcon</name>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="61"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="314"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="64"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="320"/>
         <source>Settings</source>
         <translation>設定</translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="70"/>
-        <location filename="../../ui/components/TrayIcon.cpp" line="317"/>
-        <source>Pause PCEyeGuard</source>
-        <translation>停止</translation>
-    </message>
-    <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="74"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="321"/>
-        <source>Pause %1</source>
-        <translation>停止 %1</translation>
+        <source>&amp;Health</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="85"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="322"/>
+        <source>&amp;Sleep</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="323"/>
-        <source>Pause color changes</source>
-        <translation>カラー変更を停止</translation>
+        <source>&amp;Reading</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="94"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="324"/>
-        <source>Stop work timer</source>
-        <translation>タイマー停止</translation>
+        <source>&amp;Programming</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="103"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="91"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="325"/>
-        <source>Use camera</source>
-        <translation>カメラを使用</translation>
+        <source>&amp;Biohacker</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="112"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="95"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="326"/>
-        <source>Activate Code</source>
-        <translation>アクティベーションコード</translation>
+        <source>&amp;Movie</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../../ui/components/TrayIcon.cpp" line="119"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="99"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="327"/>
+        <source>&amp;Overlay</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pause PCEyeGuard</source>
+        <translation type="vanished">停止</translation>
+    </message>
+    <message>
+        <source>Pause %1</source>
+        <translation type="vanished">停止 %1</translation>
+    </message>
+    <message>
+        <source>Pause color changes</source>
+        <translation type="vanished">カラー変更を停止</translation>
+    </message>
+    <message>
+        <source>Stop work timer</source>
+        <translation type="vanished">タイマー停止</translation>
+    </message>
+    <message>
+        <source>Use camera</source>
+        <translation type="vanished">カメラを使用</translation>
+    </message>
+    <message>
+        <source>Activate Code</source>
+        <translation type="vanished">アクティベーションコード</translation>
+    </message>
+    <message>
+        <location filename="../../ui/components/TrayIcon.cpp" line="116"/>
+        <location filename="../../ui/components/TrayIcon.cpp" line="328"/>
         <source>Exit</source>
         <translation>終了</translation>
     </message>
