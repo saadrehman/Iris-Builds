@@ -37,38 +37,38 @@
         <location filename="../../externals/cyclops/Cyclops.cpp" line="158"/>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="171"/>
         <source>Restart your PC</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="159"/>
         <source>Iris just removed some video card limitations. You need to restart your PC once to unlock full functionality.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="161"/>
         <source>Restart needed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="162"/>
         <source>Restart your PC to unlock full color range. Iris mini will work fine, but some options may be grayed out.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="172"/>
         <source>Some functionallity is limited, because you need to Restart your PC. You are using High-level Color API right now.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="215"/>
         <source>Restart is needed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../externals/cyclops/Cyclops.cpp" line="216"/>
         <source>Iris made some changes on your system and restart is needed to unlock full functionallity.
 Note that Iris will work fine now, but with limited color changes.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -104,22 +104,22 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../licensing/License.cpp" line="126"/>
         <source>Already used</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="127"/>
         <source>You have already used this code on another machine</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="136"/>
         <source>Other version</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="137"/>
         <source>You have already used this code with other version of Iris. Download and use the old version again or buy new activation code.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="146"/>
@@ -134,82 +134,82 @@ See your new options in the advanced view.</source>
     <message>
         <location filename="../licensing/License.cpp" line="156"/>
         <source>No giveway</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="157"/>
         <source>There is no active giveaway right now</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="166"/>
         <source>This code is for Iris mini</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="167"/>
         <source>This is Iris and your activation code is for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="178"/>
         <location filename="../licensing/License.cpp" line="180"/>
         <source>Team license activation. Thank you very much for supporting Iris! :)
 See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="192"/>
         <source>Team license code for Iris mini</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="193"/>
         <source>This is Iris and remaining Team license codes are for Iris mini. Download Iris mini from
 http://iristech.co/iris-mini</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="202"/>
         <source>No more Team activations</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="203"/>
         <source>You have used all your Team license activations.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="212"/>
         <source>No such Team license</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="213"/>
         <source>There is no such Team license for Iris or Iris mini.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="222"/>
         <source>Iris offline activation</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="224"/>
         <location filename="../licensing/License.cpp" line="226"/>
         <source>Your Iris is now Pro. See your new options in the advanced view.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="238"/>
         <source>Invalid response</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../licensing/License.cpp" line="241"/>
         <source>. Maybe you are not connected to the internet?</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -250,46 +250,46 @@ http://iristech.co/iris-mini</source>
         <translation>Paused</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1116"/>
+        <location filename="../MainWindow.cpp" line="1112"/>
         <source>Iris Pro needed</source>
         <translation>Iris Pro needed</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1117"/>
+        <location filename="../MainWindow.cpp" line="1113"/>
         <source>You need Iris Pro to access this section.</source>
         <translation>You need Iris Pro to access this section.</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1585"/>
+        <location filename="../MainWindow.cpp" line="1587"/>
         <source>Relaunch Iris</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <location filename="../MainWindow.cpp" line="1586"/>
-        <source>You need to relaunch Iris for changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../MainWindow.cpp" line="1588"/>
+        <source>You need to relaunch Iris for changes to take effect.</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../MainWindow.cpp" line="1590"/>
         <source>Relaunch now</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1589"/>
+        <location filename="../MainWindow.cpp" line="1591"/>
         <source>Later</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1605"/>
-        <location filename="../MainWindow.cpp" line="1670"/>
+        <location filename="../MainWindow.cpp" line="1607"/>
+        <location filename="../MainWindow.cpp" line="1672"/>
         <source>Restart is needed</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1606"/>
-        <location filename="../MainWindow.cpp" line="1670"/>
+        <location filename="../MainWindow.cpp" line="1608"/>
+        <location filename="../MainWindow.cpp" line="1672"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
 </context>
 <context>
@@ -464,7 +464,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="Translator.cpp" line="77"/>
-        <location filename="Translator.cpp" line="252"/>
+        <location filename="Translator.cpp" line="256"/>
         <source>ACTIVATE_CODE</source>
         <translation>Activate code</translation>
     </message>
@@ -863,17 +863,17 @@ http://iristech.co/iris-mini</source>
     <message>
         <location filename="Translator.cpp" line="176"/>
         <source>FONT_SMOOTHING_LIGHT</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Translator.cpp" line="177"/>
         <source>FONT_SMOOTHING_MEDIUM</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Translator.cpp" line="178"/>
         <source>FONT_SMOOTHING_HIGH</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="Translator.cpp" line="180"/>
@@ -991,52 +991,72 @@ http://iristech.co/iris-mini</source>
         <translation>Reset colors</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="271"/>
-        <source>CZECH</source>
+        <location filename="Translator.cpp" line="229"/>
+        <source>DAY_OPACITY</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="280"/>
+        <location filename="Translator.cpp" line="230"/>
+        <source>NIGHT_OPACITY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="232"/>
+        <source>DAY_DIM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="233"/>
+        <source>NIGHT_DIM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="275"/>
+        <source>CZECH</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="284"/>
         <source>SKIP_REST</source>
         <translation>Skip Rest</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="281"/>
+        <location filename="Translator.cpp" line="285"/>
         <source>NORMAL</source>
         <translation>Normal</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="282"/>
+        <location filename="Translator.cpp" line="286"/>
         <source>STRICT</source>
         <translation>Strict</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="283"/>
+        <location filename="Translator.cpp" line="287"/>
         <source>CONTINUE</source>
         <translation>Continue</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="284"/>
+        <location filename="Translator.cpp" line="288"/>
         <source>REST_MODE</source>
         <translation>Rest mode</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="285"/>
+        <location filename="Translator.cpp" line="289"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>You are in rest mode now. Edit the timer in the settings panel.</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="286"/>
+        <location filename="Translator.cpp" line="290"/>
         <source>TIME_IS</source>
         <translation>The time is</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="289"/>
+        <location filename="Translator.cpp" line="293"/>
         <source>START_WORKING</source>
         <translation>Start working</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="290"/>
+        <location filename="Translator.cpp" line="294"/>
         <source>HAVE_A_BREAK</source>
         <translation>Have a break</translation>
     </message>
@@ -1144,207 +1164,207 @@ http://iristech.co/iris-mini</source>
         <translation>Opacity</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="229"/>
+        <location filename="Translator.cpp" line="231"/>
         <source>SCREEN_DIM</source>
         <translation>Screen dim</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="230"/>
+        <location filename="Translator.cpp" line="234"/>
         <source>DISABLE</source>
         <translation>Disable</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="231"/>
+        <location filename="Translator.cpp" line="235"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>Select Screen area</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="232"/>
+        <location filename="Translator.cpp" line="236"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>Reset selected area</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="233"/>
+        <location filename="Translator.cpp" line="237"/>
         <source>ENABLE</source>
         <translation>Enable</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="235"/>
+        <location filename="Translator.cpp" line="239"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>Artificial intelligence (AI)</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="236"/>
+        <location filename="Translator.cpp" line="240"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>Use automatic brightness</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="237"/>
+        <location filename="Translator.cpp" line="241"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>Use blink detection</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="238"/>
+        <location filename="Translator.cpp" line="242"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>Show blink screen</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="239"/>
+        <location filename="Translator.cpp" line="243"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>Hide blink screen</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="241"/>
+        <location filename="Translator.cpp" line="245"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>Exercises</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="242"/>
+        <location filename="Translator.cpp" line="246"/>
         <source>START_EYE_EXERCISES</source>
         <translation>Start eye exercises</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="243"/>
+        <location filename="Translator.cpp" line="247"/>
         <source>START_NECK_EXERCISES</source>
         <translation>Start neck exercises</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="244"/>
+        <location filename="Translator.cpp" line="248"/>
         <source>START_BACK_EXERCISES</source>
         <translation>Start back exercises</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="246"/>
+        <location filename="Translator.cpp" line="250"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>Iris model</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="247"/>
+        <location filename="Translator.cpp" line="251"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>Switch to Iris</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="248"/>
+        <location filename="Translator.cpp" line="252"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>Switch to Iris lite</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="250"/>
+        <location filename="Translator.cpp" line="254"/>
         <source>ADVANCED_LICENSE</source>
         <translation>License</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="251"/>
+        <location filename="Translator.cpp" line="255"/>
         <source>GET_IRIS_PRO</source>
         <translation>Get Iris Pro</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="254"/>
+        <location filename="Translator.cpp" line="258"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>Language</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="255"/>
+        <location filename="Translator.cpp" line="259"/>
         <source>LANGUAGE</source>
         <translation>Language</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="256"/>
+        <location filename="Translator.cpp" line="260"/>
         <source>ENGLISH</source>
         <translation>English</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="257"/>
+        <location filename="Translator.cpp" line="261"/>
         <source>RUSSIAN</source>
         <translation>Russian</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="258"/>
+        <location filename="Translator.cpp" line="262"/>
         <source>SPANISH</source>
         <translation>Spanish</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="259"/>
+        <location filename="Translator.cpp" line="263"/>
         <source>CHINESE</source>
         <translation>Chinese</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="260"/>
+        <location filename="Translator.cpp" line="264"/>
         <source>INDIAN</source>
         <translation>Indian</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="261"/>
+        <location filename="Translator.cpp" line="265"/>
         <source>JAPANESE</source>
         <translation>Japanese</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="262"/>
+        <location filename="Translator.cpp" line="266"/>
         <source>ARABIC</source>
         <translation>Arabic</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="263"/>
+        <location filename="Translator.cpp" line="267"/>
         <source>TURKISH</source>
         <translation>Turkish</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="264"/>
+        <location filename="Translator.cpp" line="268"/>
         <source>PORTUGUESE</source>
         <translation>Portuguese</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="265"/>
+        <location filename="Translator.cpp" line="269"/>
         <source>FRENCH</source>
         <translation>French</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="266"/>
+        <location filename="Translator.cpp" line="270"/>
         <source>GERMAN</source>
         <translation>German</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="267"/>
+        <location filename="Translator.cpp" line="271"/>
         <source>KOREAN</source>
         <translation>Korean</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="268"/>
+        <location filename="Translator.cpp" line="272"/>
         <source>ITALIAN</source>
         <translation>Italian</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="269"/>
+        <location filename="Translator.cpp" line="273"/>
         <source>BULGARIAN</source>
         <translation>Bulgarian</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="270"/>
+        <location filename="Translator.cpp" line="274"/>
         <source>GREEK</source>
         <translation>Greek</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="273"/>
+        <location filename="Translator.cpp" line="277"/>
         <source>ADVANCED_ABOUT</source>
         <translation>About</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="274"/>
+        <location filename="Translator.cpp" line="278"/>
         <source>NAME</source>
         <translation>Name</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="275"/>
+        <location filename="Translator.cpp" line="279"/>
         <source>VERSION</source>
         <translation>Version</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="276"/>
+        <location filename="Translator.cpp" line="280"/>
         <source>PUBLISHER</source>
         <translation>Publisher</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="277"/>
+        <location filename="Translator.cpp" line="281"/>
         <source>WEBSITE</source>
         <translation>Website</translation>
     </message>
@@ -1361,43 +1381,43 @@ http://iristech.co/iris-mini</source>
         <location filename="../../ui/components/TrayIcon.cpp" line="75"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="321"/>
         <source>&amp;Health</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="79"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="322"/>
         <source>&amp;Sleep</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="83"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="323"/>
         <source>&amp;Reading</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="87"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="324"/>
         <source>&amp;Programming</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="91"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="325"/>
         <source>&amp;Biohacker</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="95"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="326"/>
         <source>&amp;Movie</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <location filename="../../ui/components/TrayIcon.cpp" line="99"/>
         <location filename="../../ui/components/TrayIcon.cpp" line="327"/>
         <source>&amp;Overlay</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>Pause PCEyeGuard</source>

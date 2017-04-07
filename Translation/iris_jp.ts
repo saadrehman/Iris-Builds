@@ -251,45 +251,45 @@ http://iristech.co/iris-mini</source>
         <translation>停止</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1116"/>
+        <location filename="../MainWindow.cpp" line="1112"/>
         <source>Iris Pro needed</source>
         <translation>本機能を使用するには製品版をご購入いただく必要があります</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1117"/>
+        <location filename="../MainWindow.cpp" line="1113"/>
         <source>You need Iris Pro to access this section.</source>
         <translatorcomment>Ignore this error.There is no problem with this Japanese sentence.</translatorcomment>
         <translation>本機能は製品版のみ利用可能です</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1585"/>
+        <location filename="../MainWindow.cpp" line="1587"/>
         <source>Relaunch Iris</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1586"/>
+        <location filename="../MainWindow.cpp" line="1588"/>
         <source>You need to relaunch Iris for changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1588"/>
+        <location filename="../MainWindow.cpp" line="1590"/>
         <source>Relaunch now</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1589"/>
+        <location filename="../MainWindow.cpp" line="1591"/>
         <source>Later</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1605"/>
-        <location filename="../MainWindow.cpp" line="1670"/>
+        <location filename="../MainWindow.cpp" line="1607"/>
+        <location filename="../MainWindow.cpp" line="1672"/>
         <source>Restart is needed</source>
         <translation type="unfinished">PCを再起動させてください</translation>
     </message>
     <message>
-        <location filename="../MainWindow.cpp" line="1606"/>
-        <location filename="../MainWindow.cpp" line="1670"/>
+        <location filename="../MainWindow.cpp" line="1608"/>
+        <location filename="../MainWindow.cpp" line="1672"/>
         <source>Iris made some changes on your system and restart is needed for changes to take effect.</source>
         <translation type="unfinished"></translation>
     </message>
@@ -466,7 +466,7 @@ http://iristech.co/iris-mini</source>
     </message>
     <message>
         <location filename="Translator.cpp" line="77"/>
-        <location filename="Translator.cpp" line="252"/>
+        <location filename="Translator.cpp" line="256"/>
         <source>ACTIVATE_CODE</source>
         <translation>アクティベーションコード</translation>
     </message>
@@ -1028,52 +1028,72 @@ http://iristech.co/iris-mini</source>
         <translation>オーバーレイカラー</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="271"/>
+        <location filename="Translator.cpp" line="229"/>
+        <source>DAY_OPACITY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="230"/>
+        <source>NIGHT_OPACITY</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="232"/>
+        <source>DAY_DIM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="233"/>
+        <source>NIGHT_DIM</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="Translator.cpp" line="275"/>
         <source>CZECH</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="280"/>
+        <location filename="Translator.cpp" line="284"/>
         <source>SKIP_REST</source>
         <translation>リセットスキップ</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="281"/>
+        <location filename="Translator.cpp" line="285"/>
         <source>NORMAL</source>
         <translation>ノーマル</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="282"/>
+        <location filename="Translator.cpp" line="286"/>
         <source>STRICT</source>
         <translation>厳格</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="283"/>
+        <location filename="Translator.cpp" line="287"/>
         <source>CONTINUE</source>
         <translation>続ける</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="284"/>
+        <location filename="Translator.cpp" line="288"/>
         <source>REST_MODE</source>
         <translation>リセットモード</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="285"/>
+        <location filename="Translator.cpp" line="289"/>
         <source>REST_MODE_MESSAGE</source>
         <translation>休止します タイマーを設定してください</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="286"/>
+        <location filename="Translator.cpp" line="290"/>
         <source>TIME_IS</source>
         <translation>時間は</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="289"/>
+        <location filename="Translator.cpp" line="293"/>
         <source>START_WORKING</source>
         <translation>開始時間</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="290"/>
+        <location filename="Translator.cpp" line="294"/>
         <source>HAVE_A_BREAK</source>
         <translation>休憩</translation>
     </message>
@@ -1146,207 +1166,207 @@ http://iristech.co/iris-mini</source>
         <translation>不透明度</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="229"/>
+        <location filename="Translator.cpp" line="231"/>
         <source>SCREEN_DIM</source>
         <translation>スクリーンDIM</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="230"/>
+        <location filename="Translator.cpp" line="234"/>
         <source>DISABLE</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="231"/>
+        <location filename="Translator.cpp" line="235"/>
         <source>SELECT_SCREEN_AREA</source>
         <translation>画面領域を指定</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="232"/>
+        <location filename="Translator.cpp" line="236"/>
         <source>RESET_SELECTED_AREA</source>
         <translation>画面領域の指定解除</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="233"/>
+        <location filename="Translator.cpp" line="237"/>
         <source>ENABLE</source>
         <translation>無効</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="235"/>
+        <location filename="Translator.cpp" line="239"/>
         <source>ADVANCED_ARTIFICIAL_INTELLIGENCE</source>
         <translation>AI</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="236"/>
+        <location filename="Translator.cpp" line="240"/>
         <source>USE_AUTOMATIC_BRIGHTNESS</source>
         <translation>ブライトネス自動調整</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="237"/>
+        <location filename="Translator.cpp" line="241"/>
         <source>USE_BLINK_DETECTION</source>
         <translation>点滅検知</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="238"/>
+        <location filename="Translator.cpp" line="242"/>
         <source>SHOW_BLINK_SCREEN</source>
         <translation>点滅画面表示</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="239"/>
+        <location filename="Translator.cpp" line="243"/>
         <source>HIDE_BLINK_SCREEN</source>
         <translation>点滅画面非表示</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="241"/>
+        <location filename="Translator.cpp" line="245"/>
         <source>ADVANCED_EXERCISES</source>
         <translation>エクササイズ</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="242"/>
+        <location filename="Translator.cpp" line="246"/>
         <source>START_EYE_EXERCISES</source>
         <translation>アイエクササイズ</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="243"/>
+        <location filename="Translator.cpp" line="247"/>
         <source>START_NECK_EXERCISES</source>
         <translation>ネックエクササイズ</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="244"/>
+        <location filename="Translator.cpp" line="248"/>
         <source>START_BACK_EXERCISES</source>
         <translation>背面エクササイズ</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="246"/>
+        <location filename="Translator.cpp" line="250"/>
         <source>ADVANCED_IRIS_MODEL</source>
         <translation>上位機種</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="247"/>
+        <location filename="Translator.cpp" line="251"/>
         <source>SWITCH_TO_IRIS</source>
         <translation>変更</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="248"/>
+        <location filename="Translator.cpp" line="252"/>
         <source>SWITCH_TO_IRIS_LITE</source>
         <translation>下位版へ変更</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="250"/>
+        <location filename="Translator.cpp" line="254"/>
         <source>ADVANCED_LICENSE</source>
         <translation>製品版ライセンス</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="251"/>
+        <location filename="Translator.cpp" line="255"/>
         <source>GET_IRIS_PRO</source>
         <translation>製品版を購入</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="254"/>
+        <location filename="Translator.cpp" line="258"/>
         <source>ADVANCED_LANGUAGE</source>
         <translation>多言語設定</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="255"/>
+        <location filename="Translator.cpp" line="259"/>
         <source>LANGUAGE</source>
         <translation>言語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="256"/>
+        <location filename="Translator.cpp" line="260"/>
         <source>ENGLISH</source>
         <translation>英語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="257"/>
+        <location filename="Translator.cpp" line="261"/>
         <source>RUSSIAN</source>
         <translation>ロシア語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="258"/>
+        <location filename="Translator.cpp" line="262"/>
         <source>SPANISH</source>
         <translation>スペイン語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="259"/>
+        <location filename="Translator.cpp" line="263"/>
         <source>CHINESE</source>
         <translation>中国語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="260"/>
+        <location filename="Translator.cpp" line="264"/>
         <source>INDIAN</source>
         <translation>インド語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="261"/>
+        <location filename="Translator.cpp" line="265"/>
         <source>JAPANESE</source>
         <translation>日本語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="262"/>
+        <location filename="Translator.cpp" line="266"/>
         <source>ARABIC</source>
         <translation>アラビア語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="263"/>
+        <location filename="Translator.cpp" line="267"/>
         <source>TURKISH</source>
         <translation>トルコ語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="264"/>
+        <location filename="Translator.cpp" line="268"/>
         <source>PORTUGUESE</source>
         <translation>ポルトガル語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="265"/>
+        <location filename="Translator.cpp" line="269"/>
         <source>FRENCH</source>
         <translation>フランス語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="266"/>
+        <location filename="Translator.cpp" line="270"/>
         <source>GERMAN</source>
         <translation>ドイツ語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="267"/>
+        <location filename="Translator.cpp" line="271"/>
         <source>KOREAN</source>
         <translation>韓国語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="268"/>
+        <location filename="Translator.cpp" line="272"/>
         <source>ITALIAN</source>
         <translation>イタリア語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="269"/>
+        <location filename="Translator.cpp" line="273"/>
         <source>BULGARIAN</source>
         <translation>ブルガリア語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="270"/>
+        <location filename="Translator.cpp" line="274"/>
         <source>GREEK</source>
         <translation>ギリシャ語</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="273"/>
+        <location filename="Translator.cpp" line="277"/>
         <source>ADVANCED_ABOUT</source>
         <translation>アバウト</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="274"/>
+        <location filename="Translator.cpp" line="278"/>
         <source>NAME</source>
         <translation>製品名</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="275"/>
+        <location filename="Translator.cpp" line="279"/>
         <source>VERSION</source>
         <translation>バージョン</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="276"/>
+        <location filename="Translator.cpp" line="280"/>
         <source>PUBLISHER</source>
         <translation>販売元</translation>
     </message>
     <message>
-        <location filename="Translator.cpp" line="277"/>
+        <location filename="Translator.cpp" line="281"/>
         <source>WEBSITE</source>
         <translation>ウェブサイト</translation>
     </message>
